@@ -97,3 +97,21 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
      }
+     .section{
+        /* Frame 13 */
+position: absolute;
+width: 940px;
+height: 1040px;
+left: 148px;
+right: 152px;
+top: 857px;
+bottom: 2993px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 80px 97px 80px 97px;
+
+
+     }
