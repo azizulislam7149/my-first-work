@@ -112,6 +112,74 @@ flex-direction: row;
 justify-content: flex-start;
 align-items: center;
 padding: 80px 97px 80px 97px;
+   }
+
+
+
+
+
+
+
+
+
+.section-6{
+    /* Frame 20 */
+position: static;
+width: 1140px;
+height: 870px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 111px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     .footer-description{
+        background-image: url('../assets/handshake.jpg');
+        /* Frame 8 */
+/* position: absolute; */
+width: 1044px auto;
+height: 186px auto;
+/* left: 300px; */
+/* right: 200px; */
+/* top: 1000px; */
+/* bottom: 1000px; */
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 30px 20px 30px 20px;
+
+
 
 
      }
